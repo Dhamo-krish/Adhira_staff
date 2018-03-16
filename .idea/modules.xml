@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adhira_staff.iml" filepath="$PROJECT_DIR$/Adhira_staff.iml" />
+      <module fileurl="file://G:\Adhira_staff\Adhira_staff.iml" filepath="G:\Adhira_staff\Adhira_staff.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\Adhira_staff\app\app.iml" filepath="G:\Adhira_staff\app\app.iml" />
     </modules>
   </component>
 </project>
