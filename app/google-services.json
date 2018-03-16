@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "596979848872",
+    "firebase_url": "https://adhira-48760.firebaseio.com",
+    "project_id": "adhira-48760",
+    "storage_bucket": "adhira-48760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596979848872:android:348eddfbcf9b7d0a",
+        "android_client_info": {
+          "package_name": "com.example.hp.adhira_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596979848872-mvtggo2q1pllbugcrj6hh47qng50u8l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ezBHeV6ux91lDtM6UwF4g-97grSGX-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596979848872:android:29c08d74c893f11d",
+        "android_client_info": {
+          "package_name": "com.example.hp.adhira_staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596979848872-mvtggo2q1pllbugcrj6hh47qng50u8l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ezBHeV6ux91lDtM6UwF4g-97grSGX-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
